@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IT\\source\\repos\\NewCRUD\\NewCRUD\\NewCRUD.csproj": {}
+    "D:\\MyProject\\NewCRUD2\\NewCRUD\\NewCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IT\\source\\repos\\NewCRUD\\NewCRUD\\NewCRUD.csproj": {
+    "D:\\MyProject\\NewCRUD2\\NewCRUD\\NewCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IT\\source\\repos\\NewCRUD\\NewCRUD\\NewCRUD.csproj",
+        "projectUniqueName": "D:\\MyProject\\NewCRUD2\\NewCRUD\\NewCRUD.csproj",
         "projectName": "NewCRUD",
-        "projectPath": "C:\\Users\\IT\\source\\repos\\NewCRUD\\NewCRUD\\NewCRUD.csproj",
+        "projectPath": "D:\\MyProject\\NewCRUD2\\NewCRUD\\NewCRUD.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IT\\source\\repos\\NewCRUD\\NewCRUD\\obj\\",
+        "outputPath": "D:\\MyProject\\NewCRUD2\\NewCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
